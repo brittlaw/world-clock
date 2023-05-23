@@ -1,6 +1,9 @@
 
 body {
-  background-color: azure;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/837/original/pretty_clock.jpeg?1684820679");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 185px;
   font-family: sans-serif;
 }
 
@@ -24,9 +27,9 @@ select {
 }
 
 .container {
-  max-width: 550px;
+  max-width: 500px;
   margin: 60px auto;
-  background: white;
+  background-color: #C8F1FB;;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
